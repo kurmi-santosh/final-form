@@ -4,7 +4,7 @@
 
 ## Creating new react application with typescript template
 ```sh
-npx create-react-app my-app --template typescript
+npx create-react-app final-form --template typescript
 ```
 
 ## Adding typescript to the existing react application
